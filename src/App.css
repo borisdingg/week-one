@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.button {
+  width: 80%;
+  height: 50px;
+}
+.item-title{ 
+  width: 35%;
+  display: inline-block;
+}
+.item {
+  width: 20%;
+  display: inline-block;
+}
+.weather{
+  margin-bottom: 40px;
+}
